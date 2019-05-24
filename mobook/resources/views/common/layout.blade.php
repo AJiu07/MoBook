@@ -7,5 +7,6 @@
         @yield('page_content')
         @include('common.footer')
         @include('common.script')
+        @yield('page_sctipt')
     </body>
 </html>
